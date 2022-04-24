@@ -1,0 +1,78 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXFileReference section */
+		CE0CEFBB2815ACEE002F3557 /* 3_LongestSubstring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 3_LongestSubstring.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		CE0CEFBC2815AD34002F3557 /* 2_AddTwoNumbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 2_AddTwoNumbers.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		CE0CEFBD2815AD99002F3557 /* 1_TwoSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1_TwoSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		CE0CEFB42815ACCA002F3557 = {
+			isa = PBXGroup;
+			children = (
+				CE0CEFBD2815AD99002F3557 /* 1_TwoSum.playground */,
+				CE0CEFBC2815AD34002F3557 /* 2_AddTwoNumbers.playground */,
+				CE0CEFBB2815ACEE002F3557 /* 3_LongestSubstring.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		CE0CEFB52815ACCA002F3557 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1330;
+			};
+			buildConfigurationList = CE0CEFB82815ACCA002F3557 /* Build configuration list for PBXProject "LeetCode" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CE0CEFB42815ACCA002F3557;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		CE0CEFB92815ACCA002F3557 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		CE0CEFBA2815ACCA002F3557 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CE0CEFB82815ACCA002F3557 /* Build configuration list for PBXProject "LeetCode" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE0CEFB92815ACCA002F3557 /* Debug */,
+				CE0CEFBA2815ACCA002F3557 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CE0CEFB52815ACCA002F3557 /* Project object */;
+}
