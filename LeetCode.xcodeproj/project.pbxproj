@@ -10,6 +10,7 @@
 		CE0CEFBB2815ACEE002F3557 /* 3_LongestSubstring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 3_LongestSubstring.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		CE0CEFBC2815AD34002F3557 /* 2_AddTwoNumbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 2_AddTwoNumbers.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		CE0CEFBD2815AD99002F3557 /* 1_TwoSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1_TwoSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		CEF7F783281C182200615561 /* 7_ReverseInteger.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 7_ReverseInteger.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -19,6 +20,7 @@
 				CE0CEFBD2815AD99002F3557 /* 1_TwoSum.playground */,
 				CE0CEFBC2815AD34002F3557 /* 2_AddTwoNumbers.playground */,
 				CE0CEFBB2815ACEE002F3557 /* 3_LongestSubstring.playground */,
+				CEF7F783281C182200615561 /* 7_ReverseInteger.playground */,
 			);
 			sourceTree = "<group>";
 		};
